@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArzumSonmez
-- 👀 I’m interested in C#, HTML, CSS, JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on interesting projects, especially in frontend development and C#. If you have an idea or project in mind, feel free to reach out!
+- 👀 I’m interested in React.js, HTML, CSS, JavaScript
+- 🌱 I’m currently learning Tailwindcss
+- 💞️ I’m looking to collaborate on interesting projects, especially in frontend development and React.js. If you have an idea or project in mind, feel free to reach out!
 - 📫 How to reach me https://www.linkedin.com/in/arzum-s%C3%B6nmez-745538267/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like video games!
