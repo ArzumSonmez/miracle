@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArzumSonmez
+- 👋 Hi, I’m @miracle
 - 👀 I’m interested in React.js, HTML, CSS, JavaScript
 - 🌱 I’m currently learning Tailwindcss
 - 💞️ I’m looking to collaborate on interesting projects, especially in frontend development and React.js. If you have an idea or project in mind, feel free to reach out!
